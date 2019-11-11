@@ -4,3 +4,5 @@
 
 ## [Wiki](https://github.com/ArielCalix/DistribucionDeClases/wiki)
 Para más informacion sobre el uso de la aplicación, puede visitar la [wiki](https://github.com/ArielCalix/DistribucionDeClases/wiki)
+
+###[Descargar](https://github.com/ArielCalix/DistribucionDeClases/tree/Debug1.1)
